@@ -16,7 +16,7 @@ Description           : This program demonstrates the working of a fork() system
 #include <unistd.h>
 int main()
 {
-	printf("\n Progrem to demonstrate fork() system call functionality \n");  /*Total Number of Processes = 2n , n -number of fork system calls */
+	printf("\n Progrem to demonstrate fork() system call functionality. main function msg \n");  /*Total Number of Processes = 2n , n -number of fork system calls */
 	fork();
 	fork();
 	fork();
