@@ -3,9 +3,14 @@ The intension of this course is to understand the concepts of basic linux system
 # List Of C Programs
 1. Trigger SIGALRM and handler
 2. Trigger SIGINT and handler
-3. TCP client server communication
-4. UDP client server communication
-5. RAW socket client server communication
-6. IPC using PThreads
+3. fork system call demonstration
+4. nice system call demonstration
+5. Orphanprocess demonstration
+6. Implementation of pthread and execution
+7. Shared memory IPC
+8. TCP client server communication
+9. UDP client server communication
+10. RAW socket client server communication
+11. IPC using PThreads
 
 # References
