@@ -11,6 +11,6 @@ The intension of this course is to understand the concepts of basic linux system
 8. TCP client server communication
 9. UDP client server communication
 10. RAW socket client server communication
-11. IPC using PThreads
+
 
 # References
